@@ -75,4 +75,24 @@ button{
     margin-top: -10px;
     margin-bottom: 20px;
 }
+.side-bar{
+   width:3%;
+   height: 450px;
+   border:2px solid rgb(153, 153, 153);
+   border-radius: 50px;
+   position: fixed;
+   top: 120px;
+   left: 92%;
+   text-align: center;      
+}
+.home-img{
+    width: 25px;
+    position: relative;
+    top: 50px;    
+}
+.prof-img{
+    width: 25px;
+    position: relative;
+    top: 80px; 
+}
 
